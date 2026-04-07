@@ -1,0 +1,172 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+.hero {
+    background: linear-gradient(rgba(220,20,60,0.8), rgba(220,20,60,0.8)), url('images/hero.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+.hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 30px;
+    color: #FFD700; /* Gold for contrast */
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+    letter-spacing: 1px;
+    line-height: 1.2;
+}
+.hero p {
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 1.6;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+    margin-bottom: 40px;
+}
+.section {
+    padding: 60px 0;
+}
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+    background-color: #fff;
+}
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(220,20,60,0.3);
+}
+.menu-item {
+    margin-bottom: 30px;
+}
+.menu-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+footer {
+    background-color: #DC143C; /* Crimson red */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.navbar {
+    background-color: #B22222 !important; /* Firebrick */
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #FFD700 !important; /* Gold */
+}
+.nav-link {
+    color: #FFF !important;
+}
+.nav-link:hover {
+    color: #FFD700 !important;
+}
+.btn-primary {
+    background-color: #DC143C;
+    border-color: #DC143C;
+}
+.btn-primary:hover {
+    background-color: #B22222;
+    border-color: #B22222;
+}
+.testimonial {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-left: 5px solid #DC143C;
+}
+.gallery img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    transition: transform 0.3s;
+    border: 3px solid #DC143C; /* Red border to match theme */
+}
+.gallery img:hover {
+    transform: scale(1.05);
+}
+.gallery-nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(220, 20, 60, 0.8); /* Red background to match theme */
+    border: 2px solid #FFD700; /* Yellow border */
+    color: white;
+    font-size: 2.2rem;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%; /* Make it circular for bubble effect */
+    cursor: pointer;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.35);
+}
+#galleryPrev {
+    left: 14px;
+}
+#galleryNext {
+    right: 14px;
+}
+.gallery-nav-btn:hover {
+    background: rgba(220, 20, 60, 1); /* Solid red on hover */
+    transform: translateY(-50%) scale(1.1);
+    border-color: #FFD700; /* Keep yellow border */
+}
+#galleryModal .modal-body {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 20px;
+}
+#galleryModalImg {
+    max-height: calc(100vh - 220px);
+    border: 3px solid #FFD700; /* Yellow border for modal image */
+}
+#galleryModalCaption {
+    font-size: 1.1rem;
+    color: #f8f9fa;
+    margin-top: 12px;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.section.bg-light {
+    background-color: #FFF5EE !important; /* Seashell for light sections */
+}
+
+/* Sticky CTA bar */
+.sticky-cta {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    background: rgba(220,20,60,0.95);
+    color: white;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.sticky-cta .btn {
+    margin: 0;
+}
+.sticky-cta .phone {
+    font-weight: bold;
+    font-size: 1rem;
+}
+@media (max-width: 768px) {
+    .sticky-cta {
+        flex-direction: column;
+    }
+}

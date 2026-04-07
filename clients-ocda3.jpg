@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->
+<!--[if !IE]><!--><html lang="en-US"> <!--<![endif]-->
+<head> <script type="text/javascript">
+/* <![CDATA[ */
+ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}}); 
+/* ]]> */
+</script>
+
+<!-- un-comment and delete 2nd meta below to disable zoom
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://themexicantaco.com/xmlrpc.php">
+<link rel="alternate" type="application/rss+xml" title="The Mexican Taco Catering | Orange County | Los Angeles" href="https://themexicantaco.com/feed" />
+
+<title>The Mexican Taco Catering | Orange County | Los Angeles |  Wp-content Uploads 2018 03 Clients-OCDA3 Jpg</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="The Mexican Taco Catering | Orange County | Los Angeles &raquo; Feed" href="https://themexicantaco.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="The Mexican Taco Catering | Orange County | Los Angeles &raquo; Comments Feed" href="https://themexicantaco.com/comments/feed" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://themexicantaco.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.3.7' type='text/css' media='all' />
+
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='mcfgf-css' href='https://themexicantaco.com/wp-content/plugins/magic-conversation-for-gravity-forms-pro/assets/css/custom.css?ver=3.0.92.487' type='text/css' media='all' />
+<link rel='stylesheet' id='mcfgf-sideform-css' href='https://themexicantaco.com/wp-content/plugins/magic-conversation-for-gravity-forms-pro/assets/css/sideform.css?ver=3.0.92.487' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://themexicantaco.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.3.7' type='text/css' media='all' />
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+/*# sourceURL=woocommerce-layout-inline-css */
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://themexicantaco.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.3.7' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://themexicantaco.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.3.7' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel='stylesheet' id='learndash_quiz_front_css-css' href='//themexicantaco.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_quiz_front.min.css?ver=4.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash_style-css' href='//themexicantaco.com/wp-content/plugins/sfwd-lms/assets/css/style.min.css?ver=4.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sfwd_front_css-css' href='//themexicantaco.com/wp-content/plugins/sfwd-lms/assets/css/front.min.css?ver=4.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-dropdown-css-css' href='//themexicantaco.com/wp-content/plugins/sfwd-lms/assets/css/jquery.dropdown.min.css?ver=4.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash_pager_css-css' href='//themexicantaco.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_pager.min.css?ver=4.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash_template_style_css-css' href='//themexicantaco.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_template_style.min.css?ver=4.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash_lesson_video-css' href='//themexicantaco.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_lesson_video.min.css?ver=4.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gateway-ppec-frontend-css' href='https://themexicantaco.com/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='brands-styles-css' href='https://themexicantaco.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=10.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://themexicantaco.com/wp-content/themes/Caterer/style.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='primary-color-css' href='https://themexicantaco.com/wp-content/themes/Caterer/css/karma-cherry.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://themexicantaco.com/wp-content/themes/Caterer/css/_font-awesome.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css' href='https://themexicantaco.com/wp-content/themes/Caterer/css/_woocommerce.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mobile-css' href='https://themexicantaco.com/wp-content/themes/Caterer/css/_mobile.css?ver=6.9.4' type='text/css' media='all' />
+<script type="text/javascript" id="gk-gravityview-blocks-js-extra">
+/* <![CDATA[ */
+var gkGravityViewBlocks = {"home_page":"https://themexicantaco.com","ajax_url":"https://themexicantaco.com/wp-admin/admin-ajax.php","create_new_view_url":"https://themexicantaco.com/wp-admin/post-new.php?post_type=gravityview","edit_view_url":"https://themexicantaco.com/wp-admin/post.php?action=edit&post=%s","views":[{"value":"40957","label":"Confirm Order Details (#40957)"},{"value":"32252","label":"Current Balance (#32252)"},{"value":"42448","label":"Current Balance 2 (#42448)"},{"value":"32236","label":"Current Feedback (#32236)"},{"value":"40960","label":"Order-Confirmation (#40960)"},{"value":"32159","label":"Order19 (#32159)"},{"value":"32161","label":"Order19A (#32161)"},{"value":"41954","label":"Order19AInvoice (#41954)"},{"value":"32187","label":"Order19B (#32187)"},{"value":"32280","label":"Order2020 (#32280)"},{"value":"42338","label":"Order22A (#42338)"},{"value":"42623","label":"Order22AInvoice (#42623)"},{"value":"31835","label":"Orders (#31835)"},{"value":"44170","label":"Payments (#44170)"},{"value":"44214","label":"VanCheck (#44214)"},{"value":"41322","label":"VanCheckView (#41322)"}],"gk-gravityview-blocks/entry":{"previewImage":"https://themexicantaco.com/wp-content/plugins/gravityview/future/includes/gutenberg/blocks/entry/preview.svg"},"gk-gravityview-blocks/entry-field":{"previewImage":"https://themexicantaco.com/wp-content/plugins/gravityview/future/includes/gutenberg/blocks/entry-field/preview.svg"},"gk-gravityview-blocks/entry-link":{"previewImage":"https://themexicantaco.com/wp-content/plugins/gravityview/future/includes/gutenberg/blocks/entry-link/preview.svg"},"gk-gravityview-blocks/view":{"previewImage":"https://themexicantaco.com/wp-content/plugins/gravityview/future/includes/gutenberg/blocks/view/preview.svg"},"gk-gravityview-blocks/view-details":{"previewImage":"https://themexicantaco.com/wp-content/plugins/gravityview/future/includes/gutenberg/blocks/view-details/preview.svg"}};
+//# sourceURL=gk-gravityview-blocks-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="mcfgf-js-extra">
+/* <![CDATA[ */
+var mcfgf = {"css_code":"cf-chat-response {  color: #FFFFFF;  border-radius: 10px;  border-color: #333333;  border-width: 1;  font-size: 12px;  -webkit-border-radius: 10px;  -moz-border-radius: 10px;  margin-left: -3.925px;  margin-top: -2.6px;}cf-chat-response text {  line-height: 150%;  background-color: #333333;  padding: 12px 30px 12px 30px;}cf-chat-response.user {  color: #FCFCFC;  border-radius: 10px;  border-color: #333333;  border-width: 1px;  -webkit-border-radius: 10px;  -moz-border-radius: 10px;}cf-chat-response.user text {  line-height: 150%;  background-color: #FF9700;}cf-chat-response.robot thumb {  background-image: url(https://themexicantaco.com/wp-content/uploads/2010/10/our-custom-preloader-logo.png) !important;}cf-chat-response.user thumb {  background-image: url(/wp-content/plugins/magic-conversation-for-gravity-forms/assets/avatars/13.png) !important;}","css_options":"{\"fontColor\":\"#FFFFFF\",\"userFontColor\":\"#FCFCFC\",\"fontSize\":\"12\",\"backgroundColor\":\"#333333\",\"userBackgroundColor\":\"#FF9700\",\"borderRadius\":10,\"offsetLeft\":\"-3.925\",\"padding\":1,\"offsetTop\":\"-2.6\",\"borderColor\":\"#333333\",\"userBorderColor\":\"#333333\",\"borderWidth\":\"1\",\"lineHeight\":\"150%\",\"uerFontColor\":\"#FFFFFF\",\"robotAvatar\":\"url(https://themexicantaco.com/wp-content/uploads/2010/10/our-custom-preloader-logo.png) !important\",\"userAvatar\":\"url(/wp-content/plugins/magic-conversation-for-gravity-forms/assets/avatars/13.png) !important\"}","js_code":"{\"position\":{\"my\":\"left center\",\"at\":\"right center\",\"adjust\":{\"method\":\"none\"}},\"style\":{\"classes\":\"mm-tooltip-cf7-container\"},\"content\":{\"text\":{\"0\":{},\"length\":1,\"prevObject\":{\"0\":{\"jQuery172021905201394110918\":4},\"context\":{\"jQuery172021905201394110918\":4},\"length\":1},\"context\":{\"jQuery172021905201394110918\":4},\"selector\":\".next(div)\"}},\"show\":true}","avatar_robot":"https://themexicantaco.com/wp-content/uploads/2010/10/our-custom-preloader-logo.png","avatar_user":"/wp-content/plugins/magic-conversation-for-gravity-forms/assets/avatars/13.png"};
+var mcfgf_settings = {"dummy":"1","is_valid_license_key":"1","is_premium_license_key":"0","is_valid_license_key_expire":"1775258907","dev_license_config":"no","isFree":""};
+var mcfgf_settings_basics = {"conversation_gravity_form_id":"31","textForMonthNames":"January, February, March, April, May, June, July, August, September, October, November, December","textForSend":"\u003Ci class=\"fas fa-paper-plane\"\u003ESend\u003C/i\u003E","textForSkip":"Skip","conversation_typing_hint":"%s is typing..","conversation_question_required":"This question is required.","conversation_submitting":"Customizing quote.","conversation_waiting_payment":"Waiting for the payment process to complete.","conversation_quantity_required":"Please enter quantity.","conversation_multipage_confirm":"Confirm","conversation_input_placeholder":"Type your answer here","conversation_input_placeholder_for_radio":"Please choose from above","placeholderForDate":"Please choose a date with picker","placeholderForTime":"Please choose a time with picker","placeholderForAddress":"Please click to fill an address","placeholderForName":"Please click to fill your name \u003E","placeholderForPassword":"Please click to fill a password","placeholderForFileUpload":"Please click to select a file","conversation_finished":"Conversation finished.","placeholderForConversationFinished":"Thank you for contacting us.","conversation_toolbar_button_color":"#ff9700","enable_conversation_button":"on","enable_only_home_page":"off","enable_notification_message":"on","conversation_button_background_color":"#33c658","conversation_button_image_normal":"","conversation_button_image_active":"","allow_image_button":"off","image_button_width_num":"100","image_button_width_unit":"%","image_button_height_num":"100","image_button_height_unit":"%","enable_conversation_header":"on","conversation_header_title":"Click for a custom quote in under 1 minute.","conversation_header_sub_title":"Hi, I'm a Quote Manager. What's your name?","conversation_header_background_color":"#33c658","conversation_header_font_color":"","custom_css":".conversational-form--enable-animation cf-chat-response.show text[value-added] {\r\n   font-size:13px;\r\n   margin-top: 0px;  \r\n}"};
+var mcfgf_global = {"ajax_url":"https://themexicantaco.com/wp-admin/admin-ajax.php","ver":"3.0.92.487","form_post_url":"https://themexicantaco.com/","form_id":"31"};
+//# sourceURL=mcfgf-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/plugins/magic-conversation-for-gravity-forms-pro/assets/js/v3/magic-conversation.js?ver=3.0.92.487" id="mcfgf-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/plugins/magic-conversation-for-gravity-forms-pro/assets/js/v3/magic-conversation-shortcode.js?ver=3.0.92.487" id="mcfgf_sc-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.3.7" id="wc-jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https://themexicantaco.com/cart","is_cart":"","cart_redirect_after_add":"no"};
+//# sourceURL=wc-add-to-cart-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.3.7" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.3.7" id="wc-js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
+//# sourceURL=woocommerce-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.3.7" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://themexicantaco.com/wp-json/" />
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<!-- /all in one seo pack Pro Version-->
+	<meta property="og:title" content="Huntington Beach Taco Catering for a 50th birthday Party."/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content="https://themexicantaco.com/huntington-beach-taco-catering-for-a-50th-birthday-party.html"/>
+	<meta property="og:description" content=""/>
+	<meta property="og:site_name" content="The Mexican Taco Catering | Orange County | Los Angeles"/>
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by Slider Revolution 6.7.18 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type='text/css'>
+
+#main, #footer-top, .content-custom-bg .heading-horizontal span {background-color:#ffffff;}.tools .breadcrumb .current_crumb:after { color: #ffffff;}
+
+.header-overlay {
+	background: url(https://themexicantaco.com/wp-content/themes/Caterer/images/_global/overlay-rays.png) 50% 50% no-repeat;
+}
+
+.header-overlay {
+	background-size: auto 100%;
+}
+
+div.karma-header-shadow {
+	background: url(https://themexicantaco.com/wp-content/themes/Caterer/images/_global/) no-repeat scroll center top;
+}
+
+div.karma-footer-shadow {
+	background: url(https://themexicantaco.com/wp-content/themes/Caterer/images/_global/) no-repeat scroll center top;
+}
+
+.top-block,
+.top-block ul.sf-menu li ul,
+#tt-slider-full-width,
+body.karma-header-custom .top-block,
+body.karma-header-custom .top-block ul.sf-menu li ul {
+	background: 5a0300;
+}
+</style>
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+
+<!--[if IE 9]>
+<style media="screen">
+#footer,
+.header-holder
+ {
+      behavior: url(https://themexicantaco.com/wp-content/themes/Caterer/js/PIE/PIE.php);
+}
+</style>
+<![endif]-->
+
+<!--[if lte IE 8]>
+<script type='text/javascript' src='https://themexicantaco.com/wp-content/themes/Caterer/js/html5shiv.js'></script>
+<style media="screen">
+a.button,
+a.button:hover,
+ul.products li.product a img,
+div.product div.images img,
+span.onsale,
+#footer,
+.header-holder,
+#horizontal_nav ul li,
+#horizontal_nav ul a,
+#tt-gallery-nav li,
+#tt-gallery-nav a,
+ul.tabset li,
+ul.tabset a,
+.karma-pages a,
+.karma-pages span,
+.wp-pagenavi a,
+.wp-pagenavi span,
+.post_date,
+.post_comments,
+.ka_button,
+.flex-control-paging li a,
+.colored_box,
+.tools,
+.karma_notify
+.opener,
+.callout_button,
+.testimonials {
+      behavior: url(https://themexicantaco.com/wp-content/themes/Caterer/js/PIE/PIE.php);
+}
+#header .header-overlay {
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='https://themexicantaco.com/wp-content/themes/Caterer/images/_global/overlay-rays.png', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( src='https://themexicantaco.com/wp-content/themes/Caterer/images/_global/overlay-rays.png', sizingMethod='scale')";
+}
+</style>
+<![endif]-->
+
+<!--[if IE]>
+<link rel="stylesheet" href="https://themexicantaco.com/wp-content/themes/Caterer/css/_internet_explorer.css" media="screen"/>
+<![endif]-->
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-98497041-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<link rel='stylesheet' id='rs-plugin-settings-css' href='//themexicantaco.com/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.18' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+/*# sourceURL=rs-plugin-settings-inline-css */
+</style>
+
+</head>
+
+<body data-rsssl=1 class="error404 wp-theme-Caterer theme-Caterer woocommerce-no-js" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div id="tt-wide-layout" class="content-custom-bg">
+	<div id="wrapper">
+		<header role="banner" id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
+<div class="top-block">
+<div class="top-holder">
+
+    
+  <div class="toolbar-left">
+    </div><!-- END toolbar-left -->
+  
+  <div class="toolbar-right">
+    </div><!-- END toolbar-right -->
+
+</div><!-- END top-holder -->
+</div><!-- END top-block -->
+
+<div class="header-holder ">
+<div class="header-overlay">
+<div class="header-area error-header">
+
+<a href="https://themexicantaco.com" class="logo"><img src="https://themexicantaco.com/wp-content/uploads/2012/04/TheMexicanTaco1.png" alt="The Mexican Taco Catering | Orange County | Los Angeles" /></a>
+
+
+
+    <nav role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	    <ul id="menu-main-nav" class="sf-menu">
+	    <li id="menu-item-31769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://themexicantaco.com/free-quote-1"><span><strong>Free Quote</strong></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-43600" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://themexicantaco.com/fast-catering-quote"><span>Catering Quote</span></a></li>
+</ul>
+</li>
+<li id="menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a title="The Mexican Taco Catering and Mexican Food Catering" href="https://themexicantaco.com/catering"><span><strong>Catering</strong></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-901" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/catering/our-specials"><span>Our Specials</span></a></li>
+	<li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://themexicantaco.com/catering/entree-selection"><span>Entrée Selection</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-905" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/catering/entree-selection/breakfast-catering-entrees"><span>Breakfast Catering Entrée’s</span></a></li>
+		<li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/catering/entree-selection/mexican-food-entrees"><span>Mexican Food Entrée’s</span></a></li>
+		<li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/catering/entree-selection/the-mexican-taco-cart-catering-meat-selection"><span>Taco Cart Catering Entrée’s</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-30474" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/reviews"><span><strong>Reviews</strong></span></a></li>
+<li id="menu-item-31707" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/photos-2"><span><strong>Photos</strong></span></a></li>
+<li id="menu-item-31774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://themexicantaco.com/contact-us-2"><span><strong>Contact Us</strong></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-1314" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="About The Mexican Taco Catering" href="https://themexicantaco.com/about"><span>About</span></a></li>
+	<li id="menu-item-30477" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/faqs"><span>FAQs</span></a></li>
+	<li id="menu-item-32655" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/shop"><span>Shop</span></a></li>
+</ul>
+</li>
+	    </ul>
+    </nav>
+</div><!-- END header-area -->
+</div><!-- END header-overlay -->
+</div><!-- END header-holder -->
+</header><!-- END header -->
+
+
+<div id="main">
+        <div class="karma-header-shadow"></div><!-- END karma-header-shadow --> 
+    
+    
+	<div class="main-area">
+		        	
+            <main role="main" id="content" class="content_full_width">
+            	<div class="four_error">
+                	<div class="four_message">
+                    	<h1 class="four_o_four">Page not Found</h1>
+							Our Apologies, but the page you are looking for could not be found. Here are some links that you might find useful:
+			<ul>
+			<li><a href="http://www.">Home</a></li>
+			<li><a href="http://www.">Sitemap</a></li>
+			<li><a href="https://www.themexicantaco.com/contact-us">Contact Us</a></li>
+			</ul>                    </div><!-- END four_message -->
+                </div><!-- END four_error -->
+            </main><!-- END main #content -->
+        </div><!-- END main-area -->
+        
+
+<div id="footer-top">&nbsp;</div><!-- END footer-top -->
+</div><!-- END main -->
+
+        <footer role="contentinfo" id="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+        	            
+            <div class="footer-overlay">
+				                <div class="karma-footer-shadow"></div><!-- END karma-footer-shadow --> 
+                                
+                <div class="footer-content">
+                    <div class="one_fourth tt-column"></div><div class="one_fourth tt-column"></div><div class="one_fourth tt-column"></div><div class="one_fourth_last tt-column"></div>                </div><!-- END footer-content -->
+
+                            </div><!-- END footer-overlay -->  
+        
+        <div id="footer_bottom">
+            <div class="info">
+            	                <div id="foot_left">&nbsp;                    			<div class="textwidget"><p><span class="Y0NH2b CLPzrc">© </span>2023 -TheMexicanTaco.com</p>
+</div>
+		                    
+                </div><!-- END foot_left -->
+                              
+                <div id="foot_right">
+                                        <ul>
+                    <li id="menu-item-5242" class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Quick Taco Catering Quote" href="https://themexicantaco.com/quote.php"><span><strong>Free Quote</strong></span></a></li>
+<li id="menu-item-952" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/terms-of-service"><span><strong>Terms of Service</strong></span></a></li>
+<li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent"><a href="https://themexicantaco.com/blog"><span><strong>Blog</strong></span></a></li>
+<li id="menu-item-953" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://themexicantaco.com/contact-us"><span><strong>Contact Us</strong></span></a></li>
+                    </ul>
+                           
+                </div><!-- END foot_right -->
+            </div><!-- END info -->
+        </div><!-- END footer_bottom -->
+                </footer><!-- END footer -->
+        
+	</div><!-- END wrapper -->
+</div><!-- END tt-layout -->
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/Caterer/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>
+
+			var wppl_precheck_remember_me = function() {
+
+				// check remember me by default
+				var forms = document.querySelectorAll('form'); 						
+				if (forms) {
+
+					var rememberMeNames = ['rememberme', 'remember', 'rcp_user_remember'];
+					var rememberArray = [];
+
+					// loop through each remember me name and see if there's a field that matches
+					for( z = 0; z < rememberMeNames.length; z++ ) {
+						var input = document.getElementsByName( rememberMeNames[z] );
+						if( input.length ) {
+							rememberArray.push(input);
+						}
+					}
+					
+					// if there are remember me inputs
+					if( rememberArray.length ) { 	
+					
+						// 'check' the inputs so they're active		
+							for (i = 0; i < rememberArray.length; i++) {
+								for (x = 0; x < rememberArray[i].length; x++) {
+								  rememberArray[i][x].checked = true;
+								}
+							}
+					
+					}
+
+					
+					// test for Ultimate Member Plugin forms
+						
+						// find the UM checkboxes
+						var UmCheckboxIcon = document.querySelectorAll('.um-icon-android-checkbox-outline-blank');
+						var UmCheckboxLabel = document.querySelectorAll('.um-field-checkbox');
+						
+						if( UmCheckboxIcon.length && UmCheckboxLabel.length ) {
+							
+							// loop through UM checkboxes
+							for (i = 0; i < UmCheckboxLabel.length; i++) {
+								
+								// find the UM input element
+								var UMCheckboxElement = UmCheckboxLabel[i].children;
+								var UMCheckboxElementName = UMCheckboxElement[0].getAttribute('name');
+								
+								// check if UM input element is remember me box
+								if( UMCheckboxElementName === 'remember' || UMCheckboxElementName === 'rememberme' ) {
+									
+									// activate the UM checkbox if it is a remember me box
+									UmCheckboxLabel[i].classList.add('active');
+									
+									// swap out UM classes to show the active state
+									UmCheckboxIcon[i].classList.add('um-icon-android-checkbox-outline');
+									UmCheckboxIcon[i].classList.remove('um-icon-android-checkbox-outline-blank');
+									
+								} // endif
+							
+							} // end for
+
+						} // endif UM
+						
+						
+						
+					// test for AR Member
+						
+						var ArmRememberMeCheckboxContainer = document.querySelectorAll('.arm_form_input_container_rememberme');
+						
+						if( ArmRememberMeCheckboxContainer.length ) {
+							
+							for (i = 0; i < ArmRememberMeCheckboxContainer.length; i++) {
+								
+								var ArmRememberMeCheckbox = ArmRememberMeCheckboxContainer[i].querySelectorAll('md-checkbox');
+								
+								if( ArmRememberMeCheckbox.length ) {
+									// loop through AR Member checkboxes
+									for (x = 0; x < ArmRememberMeCheckbox.length; x++) {
+										if( ArmRememberMeCheckbox[x].classList.contains('ng-empty') ) {
+											ArmRememberMeCheckbox[x].click();
+										}
+									}
+								}
+								
+							}
+							
+						} // end if AR Member
+							
+							
+			
+				} // endif forms
+
+			}
+
+			document.addEventListener('DOMContentLoaded', function(event) {
+				wppl_precheck_remember_me();
+			});
+
+			</script>
+<script type='text/javascript'>jQuery(document).ready(function(){if (jQuery(window).width() > 770) {truethemes_StickyMenu(1);}});</script>
+	<script type='text/javascript'>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/javascript" src="//themexicantaco.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.18" defer async id="tp-tools-js"></script>
+<script type="text/javascript" src="//themexicantaco.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.18" defer async id="revmin-js"></script>
+<script type="text/javascript" id="truethemes-custom-js-extra">
+/* <![CDATA[ */
+var php_data = {"mobile_menu_text":"Main Menu","mobile_sub_menu_text":"More in this section...","mobile_horz_dropdown":"","karma_jquery_slideshowSpeed":"8000","karma_jquery_pause_hover":"false","karma_jquery_randomize":"false","karma_jquery_directionNav":"true","karma_jquery_animation_effect":"fade","karma_jquery_animationSpeed":"600","testimonial_slideshowSpeed":"8000","testimonial_pause_hover":"false","testimonial_randomize":"false","testimonial_directionNav":"true","testimonial_animation_effect":"fade","testimonial_animationSpeed":"600","sticky_sidebar":"","sticky_menu_one":"true","sticky_menu_two":""};
+//# sourceURL=truethemes-custom-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/themes/Caterer/js/custom-main.js" id="truethemes-custom-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/themes/Caterer/js/superfish.js" id="karma-superfish-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/themes/Caterer/js/retina.js" id="retina_js-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/themes/Caterer/js/jquery.flexslider.js" id="karma-flexslider-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/themes/Caterer/js/jquery.fitvids.js" id="fitvids-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/themes/Caterer/js/jquery.isotope.js" id="isotope-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3" id="jquery-ui-tabs-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3" id="jquery-ui-accordion-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/themes/Caterer/js/jquery.prettyPhoto.js" id="pretty-photo-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.3.7" id="sourcebuster-js-js"></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https://themexicantaco.com/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.3.7" id="wc-order-attribution-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-order-review.js?ver=2.1.3" id="wc-gateway-ppec-order-review-js"></script>
+<script type="text/javascript" src="https://themexicantaco.com/wp-content/themes/Caterer/js/scrollWatch.js" id="scrollwatch-js"></script>
+			
+		<a href="#0" class="karma-scroll-top"><i class="fa fa-chevron-up"></i></a>
+</body>
+</html>
